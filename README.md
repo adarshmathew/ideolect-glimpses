@@ -1,6 +1,6 @@
 [About _Ideolect's of Reddit_](https://adarshmathew.github.io/projects/ideolect/)
 
-tl;dr: Subreddits speak specific languages which belie its values, worldviews, and incentives for interaction. We[^1] try to understand inter- and intra-community conflict (legitimate and otherwise) through this lens, while accounting for the network interactions of users.
+Project tl;dr: Subreddits speak specific languages which belie its values, worldviews, and incentives for interaction. We[^1] try to understand inter- and intra-community conflict (legitimate and otherwise) through this lens, while accounting for the network interactions of users.
 
 [^1]: Jeremiah Milbauer, Prof. James Evans, Me.
 
